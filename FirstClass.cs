@@ -11,5 +11,6 @@ public class FirstClass
     	}
 	public void CalculateMin(int[] values)
 	{
+		// Logic goes here
 	}
 }
