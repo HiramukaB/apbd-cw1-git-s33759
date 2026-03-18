@@ -12,3 +12,7 @@ Przygotowanie do rebase'a
 
 Merge zachowuje oryginalną historię gałęzi i tworzy commit łączący, natomiast rebase przepisuje historię, przenosząc commity na koniec gałęzi głównej, co daje liniową historię bez commitów łączących.
 
+
+
+Konflikt w pliku FirstClass.cs powstał, ponieważ ta sama metoda została zmodyfikowana w tym samym miejscu na dwóch różnych gałęziach (main i feature-conflict). Rozwiązałem go ręcznie, otwierając plik w edytorze tekstowym. Usunąłem znaczniki wygenerowane przez Gita (<<<<<<<, =======, >>>>>>>) i zapisałem.
+
