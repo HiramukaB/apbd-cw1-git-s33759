@@ -16,5 +16,6 @@ public class FirstClass
 	public void HandleInput() 
 	{ 
     		Console.WriteLine("Wersja z galezi main");
+    		Console.WriteLine("Wersja z galezi feature-conflict");
 	}
 }
