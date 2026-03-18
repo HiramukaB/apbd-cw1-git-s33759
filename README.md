@@ -10,3 +10,5 @@ Przygotowanie do rebase'a
 
 
 
+Merge zachowuje oryginalną historię gałęzi i tworzy commit łączący, natomiast rebase przepisuje historię, przenosząc commity na koniec gałęzi głównej, co daje liniową historię bez commitów łączących.
+
