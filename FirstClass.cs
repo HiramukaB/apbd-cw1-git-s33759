@@ -9,4 +9,7 @@ public class FirstClass
 	public void CalculateMax(int[] values)
     	{
     	}
+	public void CalculateMin(int[] values)
+	{
+	}
 }
