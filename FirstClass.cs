@@ -13,4 +13,8 @@ public class FirstClass
 	{
 		// Logic goes here
 	}
+	public void HandleInput() 
+	{ 
+    		Console.WriteLine("Wersja z galezi feature-conflict");
+	}
 }
