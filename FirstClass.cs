@@ -6,4 +6,7 @@ public class FirstClass
 	public void CalculateAverage(int[] values)
     	{
     	}
+	public void CalculateMax(int[] values)
+    	{
+    	}
 }
